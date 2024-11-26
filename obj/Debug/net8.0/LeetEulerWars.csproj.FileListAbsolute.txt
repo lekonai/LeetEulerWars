@@ -1,0 +1,14 @@
+C:\Users\Omari\Documents\funny coding\c#\EulerCode\LeetEulerWars\LeetEulerWars\bin\Debug\net8.0\LeetEulerWars.exe
+C:\Users\Omari\Documents\funny coding\c#\EulerCode\LeetEulerWars\LeetEulerWars\bin\Debug\net8.0\LeetEulerWars.deps.json
+C:\Users\Omari\Documents\funny coding\c#\EulerCode\LeetEulerWars\LeetEulerWars\bin\Debug\net8.0\LeetEulerWars.runtimeconfig.json
+C:\Users\Omari\Documents\funny coding\c#\EulerCode\LeetEulerWars\LeetEulerWars\bin\Debug\net8.0\LeetEulerWars.dll
+C:\Users\Omari\Documents\funny coding\c#\EulerCode\LeetEulerWars\LeetEulerWars\bin\Debug\net8.0\LeetEulerWars.pdb
+C:\Users\Omari\Documents\funny coding\c#\EulerCode\LeetEulerWars\LeetEulerWars\obj\Debug\net8.0\LeetEulerWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omari\Documents\funny coding\c#\EulerCode\LeetEulerWars\LeetEulerWars\obj\Debug\net8.0\LeetEulerWars.AssemblyInfoInputs.cache
+C:\Users\Omari\Documents\funny coding\c#\EulerCode\LeetEulerWars\LeetEulerWars\obj\Debug\net8.0\LeetEulerWars.AssemblyInfo.cs
+C:\Users\Omari\Documents\funny coding\c#\EulerCode\LeetEulerWars\LeetEulerWars\obj\Debug\net8.0\LeetEulerWars.csproj.CoreCompileInputs.cache
+C:\Users\Omari\Documents\funny coding\c#\EulerCode\LeetEulerWars\LeetEulerWars\obj\Debug\net8.0\LeetEulerWars.dll
+C:\Users\Omari\Documents\funny coding\c#\EulerCode\LeetEulerWars\LeetEulerWars\obj\Debug\net8.0\refint\LeetEulerWars.dll
+C:\Users\Omari\Documents\funny coding\c#\EulerCode\LeetEulerWars\LeetEulerWars\obj\Debug\net8.0\LeetEulerWars.pdb
+C:\Users\Omari\Documents\funny coding\c#\EulerCode\LeetEulerWars\LeetEulerWars\obj\Debug\net8.0\LeetEulerWars.genruntimeconfig.cache
+C:\Users\Omari\Documents\funny coding\c#\EulerCode\LeetEulerWars\LeetEulerWars\obj\Debug\net8.0\ref\LeetEulerWars.dll
